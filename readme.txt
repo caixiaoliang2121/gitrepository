@@ -1,4 +1,4 @@
 Git is a distributed version control system.
-Git is free sofrware distributed under the GPL.
+Git is a free sofrware distributed under the GPL.
 Git has a mutable index calle stage.
 Git tracks changes.
